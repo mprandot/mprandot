@@ -1,2 +1,5 @@
 - 👋 Hi, I’m @mprandot
+- Senior Software Engineer
+- Front-end specialist
+- [https://www.ifood.com.br/](https://institucional.ifood.com.br/?utm_source=site_ifood)
 - 📫 How to reach me: mprandot@gmail.com
